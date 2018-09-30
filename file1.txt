@@ -1,4 +1,3 @@
 initial state file1
 first change
 second change
-third change
