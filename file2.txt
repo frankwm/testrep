@@ -1,1 +1,2 @@
 initial state file2
+file1.txt
