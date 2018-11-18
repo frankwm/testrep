@@ -1,3 +1,4 @@
 test file 1
 Adding second line
 Adding line 3
+line4
