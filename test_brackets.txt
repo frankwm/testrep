@@ -7,3 +7,4 @@ testing Brackets text editor
 7th change
 8th change
 9th change
+10th change
